@@ -1,0 +1,14 @@
+body {
+  background-color: cyan; }
+
+.btn-add {
+  background-color: gray;
+  color: #fff;
+  padding: 20px;
+  margin: 10px; }
+
+.example {
+  display: grid;
+  transition: all .5s;
+  user-select: none;
+  background: linear-gradient(to bottom, white, black); }
